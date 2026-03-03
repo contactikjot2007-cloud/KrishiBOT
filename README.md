@@ -9,7 +9,7 @@ KrishiBOT is an AI-powered agricultural assistance system designed to support fa
 
 => Harshita – Proposed the core project idea and delivered the final 5-minute presentation.
 
-=> Prerna – Researched relevant laws and policies related to the project domain.
+=> Prerna – Proposed the core project idea & Researched relevant laws related to the project domain.
 
 => Shilpa – Supported the project through background research and content refinement.
 
