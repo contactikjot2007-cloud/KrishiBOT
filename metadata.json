@@ -1,0 +1,9 @@
+{
+  "name": "KrishiBot - AI Farming Assistant",
+  "description": "A multilingual, visual-heavy AI assistant for Indian farmers providing disease scanning, weather insights, market prices, and traditional farming wisdom.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
