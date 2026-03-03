@@ -3,14 +3,14 @@ KrishiBOT is an AI-powered agricultural assistance system designed to support fa
 
 👥 Team Contributions
 
-Kanchan ( TEAM LEADER )– Identified, defined key features of the system & Prepared For Presentation.
+=> Kanchan ( TEAM LEADER )– Identified, defined key features of the system & Prepared For Presentation.
 
-Ikjot – Designed and developed the complete webpage, structured the user flow, and prepared the project presentation.
+=> Ikjot – Designed and developed the complete webpage, structured the user flow, and prepared the project presentation.
 
-Harshita – Proposed the core project idea and delivered the final 5-minute presentation.
+=> Harshita – Proposed the core project idea and delivered the final 5-minute presentation.
 
-Prerna – Researched relevant laws and policies related to the project domain.
+=> Prerna – Researched relevant laws and policies related to the project domain.
 
-Shilpa – Supported the project through background research and content refinement.
+=> Shilpa – Supported the project through background research and content refinement.
 
-Rosebir – Assisted with research, coordination, and overall project support.
+=> Rosebir – Assisted with research, coordination, and overall project support.
